@@ -1,5 +1,5 @@
 //FILE: Assignment 4.cpp
-//PROGRAMMER: Teryn Tsang CPSC 1103 S10
+//PROGRAMMER: Rynn Tee
 //PURPOSE: Allows user to buy tickets, by picking a seat directly, or by ticket price
 
 #include <iostream>
